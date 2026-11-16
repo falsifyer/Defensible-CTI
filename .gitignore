@@ -10,3 +10,4 @@ demo/out/
 .mypy_cache/
 .coverage
 htmlcov/
+.direnv/
