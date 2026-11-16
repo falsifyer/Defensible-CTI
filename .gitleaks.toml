@@ -1,0 +1,9 @@
+# gitleaks configuration for the suite.
+#
+# The default rules are kept and no allowlist is needed: the repository has no
+# credential-shaped fixtures. If a test ever needs one, add its path here with a
+# comment that says why, instead of disabling the rule.
+title = "cti-suite"
+
+[extend]
+useDefault = true
